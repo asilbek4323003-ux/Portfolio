@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://asilbek4323003-ux.github.io/Portfolio/sitemap.xml
